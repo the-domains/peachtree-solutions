@@ -1,15 +1,24 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: null
+inLanguage: null
+starred: false
+keywords: []
+description: Your source for professional REST Web Service solutions
+datePublished: '2015-10-27T14:50:34.810Z'
+dateModified: '2015-10-27T14:50:23.518Z'
 title: Getting Started on The Grid
-description: Click the pencil icon in the bottom left to read more...
 author: []
-datePublished: '2015-10-27T14:09:07.086Z'
-dateModified: '2015-10-27T14:01:44.046Z'
 sourcePath: _posts/2015-10-27-getting-started-on-the-grid.md
 published: true
-inFeed: true
-hasPage: true
-inNav: false
-url: getting-started-on-the-grid/index.html
+authors: []
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
 _context: 'http://schema.org'
 _type: Article
 
