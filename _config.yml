@@ -1,24 +1,14 @@
-name: Peachtree Solutions
-favicon: null
-layout_spectrum: 0.37832
-typography_spectrum: 0.6418306678533554
-title: Peachtree Solutions
-cta:
-  domain: null
-  bucket: null
-  version: null
 analytics:
   google: UA-85271-1
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors: []
   brandStrength: 0.5703747710213065
   lightness: 0.41754218516871333
-  saturation: 0.8085000403225422
   rhythmicContrast: 0.15118735819123685
+  saturation: 0.8085000403225422
+cta: {}
+layout_spectrum: 0.352796
+name: Peachtree Solutions
+opengraph: {}
 purpose: []
+typography_spectrum: 0.242599
